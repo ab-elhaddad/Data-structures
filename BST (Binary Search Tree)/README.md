@@ -1,5 +1,5 @@
 #  Implementation:
-```
+```cpp
 template <typename T> // Using Generic Template to store any comparable data type in the value variable
 struct TreeNode       // This struct is gonna be used for the binary search tree nodes
 {
