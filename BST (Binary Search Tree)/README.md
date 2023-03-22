@@ -1,3 +1,5 @@
+#### Note: I have used Generic Template To make the BST suitable for any data type. For further reading about Generics and Templates [here](https://www.geeksforgeeks.org/generics-in-c/) and [here](https://www.geeksforgeeks.org/templates-cpp/)
+
 #  Implementation:
 ```cpp
 template <typename T> // Using Generic Template to store any comparable data type in the value variable
