@@ -1,6 +1,20 @@
-#### Note: I have used Generic Template To make the BST suitable for any data type. For further reading about Generics and Templates [here](https://www.geeksforgeeks.org/generics-in-c/) and [here](https://www.geeksforgeeks.org/templates-cpp/)
+A **binary search tree (BST)** is a widely used data structure used for efficient searching, sorting, indexing, and symbol table implementation. It stores data in a tree-like structure with unique keys, and each node has at most two child nodes with smaller and larger keys *(larger elements to the right and smaller elements to the left)*. It has an average search time complexity of `O(log n)` and is useful for maintaining sorted collections of data where efficient search and insertion operations are important.
+
+#### Binary search trees (BSTs) have many uses in computer science, including:
+1. **Searching**: BSTs enable efficient search operations by maintaining a sorted collection of data.
+2. **Sorting**: BSTs can be used to sort data in ascending or descending order based on the keys. 
+3. **Indexing**: BSTs can be used to index and store large amounts of data, allowing for efficient searching and retrieval of specific data points.
+4. **Symbol tables**: BSTs can be used to implement symbol tables, which are used to store key-value pairs and support operations such as insertion, deletion, and lookup.
+5. **Priority queues**: BSTs can be used to implement priority queues, which are used to store and retrieve elements in order of priority.
+6. **File systems**: Some file systems use BSTs to store and manage file directories and their hierarchical structures.
+
+#### For further reading [here](https://www.geeksforgeeks.org/binary-search-tree-data-structure/).
+</br>
+
+
 
 #  Implementation:
+#### Note: I have used Generic Template To make the BST suitable for any data type. For further reading about Generics and Templates [here](https://www.geeksforgeeks.org/generics-in-c/) and [here](https://www.geeksforgeeks.org/templates-cpp/)
 ```cpp
 template <typename T> // Using Generic Template to store any comparable data type in the value variable
 struct TreeNode       // This struct is gonna be used for the binary search tree nodes
