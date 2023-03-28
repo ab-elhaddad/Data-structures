@@ -1,5 +1,5 @@
 # Data structures
-In this repo I share with you the data structures that I have implemented provided with the explaination of each data structure with images and its real life usages.
+In this repo I share with you the data structures that I have implemented provided with the explaination of each data structure with images and their real life usages.
 
 #### Languages:
 - C++
