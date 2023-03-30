@@ -108,11 +108,12 @@ public:
     }
 };
 ```
+</br>
 
-### TreeNode Struct Visualization
+- ### TreeNode Struct Visualization
 <img src="https://user-images.githubusercontent.com/113056556/228140166-460c2ca2-1395-49b0-a591-4815e9d24054.JPG" alt="TreeNode" width="700"/>
 
-### BST Visualization
+- ### BST Visualization
 **As you can see every node has its larger childs to the right and its smaller childs to the left.**
 
 <img src="https://user-images.githubusercontent.com/113056556/228140334-44ce7863-3426-40d6-bfdb-918904780f3b.JPG" alt="TreeNode" width="700"/>
