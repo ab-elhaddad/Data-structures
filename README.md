@@ -6,3 +6,4 @@ In this repo I share with you the data structures that I have implemented provid
 
 ## Implemented Data Structures:
 - **[BST (Binary Search Tree)](https://github.com/ab-elhaddad/Data-structures/tree/main/BST%20(Binary%20Search%20Tree))**
+- **[Trie](https://github.com/ab-elhaddad/Data-structures/tree/main/Trie)**
